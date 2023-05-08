@@ -1,2 +1,2 @@
 # cen4802
-Summer 2023 Software Int, Config, and Test
+Khon Duong's Repository for the Summer 2023 semester in Software Int, Config, and Test
