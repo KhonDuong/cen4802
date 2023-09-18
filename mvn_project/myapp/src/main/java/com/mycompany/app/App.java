@@ -1,6 +1,12 @@
-public class RecursiveFibonacci {
+package mvn_project.myapp.src.main.java.com.mycompany.app;
+
+/**
+ * Hello world!
+ *
+ */
+public class App {
     public static void main(String[] args) {
-        System.out.println("The 10th term of the fibonacci sequence, using the" +
+        System.out.println("The 10th term of the fibonacci sequence, using the " +
                 "recursive formula, is " + recursiveFib(10));
     }
 
