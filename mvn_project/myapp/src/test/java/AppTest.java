@@ -1,4 +1,4 @@
-package mvn_project.myapp.src.main.java.com.mycompany.app.test;
+package mvn_project.myapp.src.test.java;
 
 import mvn_project.myapp.src.main.java.com.mycompany.app.App;
 
